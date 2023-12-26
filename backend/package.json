@@ -4,7 +4,8 @@
   "description": "Node.js Backend Application",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo 'This is a build script for the backend'"
   },
   "dependencies": {
     "express": "^4.17.1",
